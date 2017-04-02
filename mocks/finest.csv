@@ -1,4 +1,4 @@
-char,ontology,list of finest character
+char_id,ontology,list_of_hinest_character
 85,hao,"http://purl.obolibrary.org/obo/HAO_0000811"
 85,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 86,hao,"http://purl.obolibrary.org/obo/HAO_0000811"
@@ -12,7 +12,7 @@ char,ontology,list of finest character
 14,hao,"http://purl.obolibrary.org/obo/HAO_0001218"
 14,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 15,hao,"http://purl.obolibrary.org/obo/HAO_0001218"
-15,pato,"http://purl.obolibrary.org/obo/PATO_0000140, http://purl.obolibrary.org/obo/PATO_0000052" 
+15,pato,"http://purl.obolibrary.org/obo/PATO_0000140, http://purl.obolibrary.org/obo/PATO_0000052"
 18,hao,"http://purl.obolibrary.org/obo/HAO_0000653"
 18,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 19,hao,"http://purl.obolibrary.org/obo/HAO_0000653"
