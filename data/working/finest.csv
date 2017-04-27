@@ -47,5 +47,7 @@ char_id,ontology,list_of_finest_character
 100,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 101,hao,"http://purl.obolibrary.org/obo/HAO_0000856"
 101,pato, "http://purl.obolibrary.org/obo/PATO_0000133"
+124	hao	http://purl.obolibrary.org/obo/HAO_0000855"
+124	pato	http://purl.obolibrary.org/obo/PATO_0000070"
 
 
