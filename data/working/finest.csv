@@ -1,4 +1,10 @@
 char_id,ontology,list_of_finest_character
+1,hao," http://purl.obolibrary.org/obo/HAO_0000234"
+1,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
+2,hao,"http://purl.obolibrary.org/obo/HAO_0001432"
+2,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
+3,hao,"http://purl.obolibrary.org/obo/HAO_0000419"
+3,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 85,hao,"http://purl.obolibrary.org/obo/HAO_0000811"
 85,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 86,hao,"http://purl.obolibrary.org/obo/HAO_0000811"
