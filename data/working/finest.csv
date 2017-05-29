@@ -8,7 +8,7 @@ char_id,ontology,list_of_finest_character
 4,hao,"http://purl.obolibrary.org/obo/HAO_0001022"
 4,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
 5,hao,"http://purl.obolibrary.org/obo/HAO_0001022"
-5,pato"http://purl.obolibrary.org/obo/PATO_0000140"
+5,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
 6,hao,"http://purl.obolibrary.org/obo/HAO_0000105"
 6,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 7,hao,"http://purl.obolibrary.org/obo/HAO_0001022"
