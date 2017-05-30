@@ -271,6 +271,14 @@ char_id,ontology,list_of_finest_character
 150,pato,"http://purl.obolibrary.org/obo/PATO_0000052"
 151,hao,"http://purl.obolibrary.org/obo/HAO_0001903"
 151,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
+152,hao,"http://purl.obolibrary.org/obo/HAO_0001903"
+152,pato,"http://purl.obolibrary.org/obo/PATO_0000117"
+153,hao,"http://purl.obolibrary.org/obo/HAO_0000881"
+153,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
+154,hao,"http://purl.obolibrary.org/obo/HAO_0000574,http://purl.obolibrary.org/obo/HAO_0000558"
+155,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
+156,hao,"http://purl.obolibrary.org/obo/HAO_0000558,http://purl.obolibrary.org/obo/HAO_0000188"
+156,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 
 
 
