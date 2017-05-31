@@ -333,7 +333,7 @@ char_id,ontology,list_of_finest_character
 186,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
 187,hao,"http://purl.obolibrary.org/obo/HAO_0000549,http://purl.obolibrary.org/obo/HAO_0001785"
 187,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
-189,hao"http://purl.obolibrary.org/obo/HAO_0000475"
+189,hao,"http://purl.obolibrary.org/obo/HAO_0000475"
 189,pato,"http://purl.obolibrary.org/obo/PATO_0000052"
 190,hao,"http://purl.obolibrary.org/obo/HAO_0001439"
 190,pato,"http://purl.obolibrary.org/obo/PATO_0000052"
