@@ -397,4 +397,8 @@ char_id,ontology,list_of_finest_character
 221,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 222,hao,"http://purl.obolibrary.org/obo/HAO_0001056"
 222,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
+223,hao,"http://purl.obolibrary.org/obo/HAO_0000684"
+223,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
+224,hao,"http://purl.obolibrary.org/obo/HAO_0000684"
+224,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 
