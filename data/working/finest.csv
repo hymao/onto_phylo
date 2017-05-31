@@ -331,8 +331,8 @@ char_id,ontology,list_of_finest_character
 185,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 186,hao,"http://purl.obolibrary.org/obo/HAO_0001383"
 186,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
-
-
+187,hao,"http://purl.obolibrary.org/obo/HAO_0000549,http://purl.obolibrary.org/obo/HAO_0001785"
+187,pato,"http://purl.obolibrary.org/obo/PATO_0000140
 191,hao,"http://purl.obolibrary.org/obo/HAO_0000548"
 191,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 192,hao,"http://purl.obolibrary.org/obo/HAO_0000121"
