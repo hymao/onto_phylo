@@ -699,5 +699,11 @@ char_id,ontology,list_of_finest_character
 373,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 374,hao,"http://purl.obolibrary.org/obo/HAO_0001456"
 374,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
+375,hao,"http://purl.obolibrary.org/obo/HAO_0000057,http://purl.obolibrary.org/obo/HAO_0000037,http://purl.obolibrary.org/obo/HAO_0000058,http://purl.obolibrary.org/obo/HAO_0000038"
+375,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
+376,hao,"http://purl.obolibrary.org/obo/HAO_0000378"
+376,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
+377,hao,"http://purl.obolibrary.org/obo/HAO_0002497"
+377,pato,"http://purl.obolibrary.org/obo/PATO_0000070""
 
 
