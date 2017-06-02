@@ -520,7 +520,7 @@ char_id,ontology,list_of_finest_character
 284,hao,"http://purl.obolibrary.org/obo/HAO_0001306"
 284,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 285,hao,"http://purl.obolibrary.org/obo/HAO_0001801,http://purl.obolibrary.org/obo/HAO_0001707,http://purl.obolibrary.org/obo/HAO_0000846"
-285,pato,"http://purl.obolibrary.org/obo/PATO_0000070""
+285,pato,"http://purl.obolibrary.org/obo/PATO_0000070"
 286,hao,"http://purl.obolibrary.org/obo/HAO_0000846"
 286,pato,"http://purl.obolibrary.org/obo/PATO_0000140"
 287,hao,"http://purl.obolibrary.org/obo/HAO_0001397"
