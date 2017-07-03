@@ -1,0 +1,20 @@
+Meaning of terms for annotation_original-vs-auto.csv
+
+Columns:
+1. id – char id in (Sharkey, 2011)
+2. statement – char statement in (Sharkey, 2011)
+3. Istvan’s annot – Istvan’s finest annotation from finest.csv
+4. compar_result – comparison of results betwenn Istvan’s and automatic annotation
+  1. none – no match between Istvan’s and auto annotations
+  2. identical - Istvan’s and auto annotations are the same
+  3. partial -  Istvan’s and auto partial match
+  4. original is subset – partial but original annotation is a subset of auto one
+  5. auto_annot is subset - partial but auto_annot  is a subset of original one
+  6. original is finer – partial but auto annotations are ancestors of original one
+  7. character absent
+5. suggested_annot – annatation suggested by R script
+
+
+Notes:
+1. identical, original is finer -  this means tha auto annotations and original one are almost the same
+2. Check out specificaly those: none, original is subset. They may indicate that additional ontology annotations have to be added to character
