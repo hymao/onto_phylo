@@ -18,3 +18,13 @@ Columns:
 Notes:
 1. identical, original is finer -  this means tha auto annotations and original one are almost the same
 2. Check out specificaly those: none, original is subset. They may indicate that additional ontology annotations have to be added to character
+
+I found some chars that seemingly have to be revised:
+116. Foreleg  procoxa (HAO:0001315(procoxal foramen)). Procoxal foramen is not implied by HAO relationships as an item of procoxa.
+Either HAO:0001315 have to be related as part_of procoxa in HAO or char 116 have to be linked with procoxa.
+The script suggested HAO:0001122(procoxa)
+
+2.Supraantennal groove or depression (HAO:0001432(antennal scrobe)). Similar to the previous char. HAO:0001432 is
+not related to antenna but have to be linked somehow. The script suggested HAO:0000101(antenna)
+
+155. This char is missing in HAO annotaions.
