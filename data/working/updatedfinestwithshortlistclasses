@@ -505,7 +505,7 @@ char_id,ontology,list_of_finest_character
 252,pato,http://purl.obolibrary.org/obo/PATO_0000070
 253,hao,http://purl.obolibrary.org/obo/HAO_0000631"
 253,pato,http://purl.obolibrary.org/obo/PATO_0000070
-254,hao,http://purl.obolibrary.org/obo/HAO_0000992
+254,hao,"http://purl.obolibrary.org/obo/HAO_0001125,http://purl.obolibrary.org/obo/HAO_0001132,http://purl.obolibrary.org/obo/HAO_000114"
 254,pato,http://purl.obolibrary.org/obo/PATO_0000070
 255,hao,http://purl.obolibrary.org/obo/HAO_0000604
 255,pato,http://purl.obolibrary.org/obo/PATO_0000141
